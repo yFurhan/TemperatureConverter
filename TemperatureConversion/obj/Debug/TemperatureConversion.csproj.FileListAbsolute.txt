@@ -1,0 +1,10 @@
+C:\Users\mushy\source\repos\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+C:\Users\mushy\source\repos\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+C:\Users\mushy\source\repos\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+C:\Users\mushy\source\repos\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.AssemblyReference.cache
+C:\Users\mushy\source\repos\TemperatureConversion\obj\Debug\TemperatureConversion.fnformTemperatureConversions.resources
+C:\Users\mushy\source\repos\TemperatureConversion\obj\Debug\TemperatureConversion.Properties.Resources.resources
+C:\Users\mushy\source\repos\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.GenerateResource.cache
+C:\Users\mushy\source\repos\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\mushy\source\repos\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+C:\Users\mushy\source\repos\TemperatureConversion\obj\Debug\TemperatureConversion.pdb
